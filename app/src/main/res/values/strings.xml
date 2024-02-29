@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TextToSpeechDemo</string>
+    <string name="welcome_text">Welcome to the text to speech demo!</string>
+    <string name="speak_button_text">Press To Hear The Text Entered Above</string>
+</resources>
